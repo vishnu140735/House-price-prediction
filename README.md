@@ -7,5 +7,7 @@ Simple pipeline to predict house prices using the **California Housing** dataset
 2) `python src/preprocess.py`  
 3) `python src/train_model.py --model linear`  
 4) `python src/evaluate.py --model linear`
+5) `pip install ipykernel`
+6) `Run eda.ipynb`
 
 Try other models:
