@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data & models
+data/*.csv
+models/*.joblib
